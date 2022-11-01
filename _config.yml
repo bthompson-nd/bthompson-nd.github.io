@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Effective Data Integration
 description: Posts about the effective use of Talend and other tools for Data Integrations
+theme: minima
