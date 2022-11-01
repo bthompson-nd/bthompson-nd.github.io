@@ -1,1 +1,0 @@
-# bthompson-nd.github.io
